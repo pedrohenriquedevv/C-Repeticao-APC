@@ -21,5 +21,6 @@ O projeto aborda os seguintes desafios de programação:
 
 ## 🛠️ Tecnologias Utilizadas
 
-*   **Linguagem C** (Padrão C11/C17)
-*   **GCC** (GNU Compiler Collection)
+*   **Linguagem C**
+*   **GCC**
+*   Visual Studio Code
